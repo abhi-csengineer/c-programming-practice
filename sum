@@ -1,1 +1,10 @@
-#include 
+#include <stdio.h>
+int main (void)
+{
+  int v1,v2;
+printf("Enter the two number v1 and v2 respectively");
+scanf("%d",&v1 && "%d",&v2);
+sum=v1+v2
+printf("%d",sum);
+return 0;
+}
