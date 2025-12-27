@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main (void)
+{
+int a,b;
+printf("Enter the first no a\n:");
+printf("Enter the second no b\n:");
+scanf("%d %d",&a,&b);
+printf("=The answer is %d" a+b);
+return 0;
+}
